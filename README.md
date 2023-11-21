@@ -1,4 +1,4 @@
-Problem Statement:
+# Problem Statement:
 
 The e-commerce business is quite popular today. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Famous examples of such e-commerce companies are Amazon, Flipkart, Myntra, Paytm and Snapdeal.
 
@@ -26,9 +26,7 @@ Building a recommendation system
 Improving the recommendations using the sentiment analysis model
 Deploying the end-to-end project with a user interface
 
-#Steps involved in the project
-
-Exploratory data analysis
+## Steps involved in the project
 
 1.  Loading the data
 2.  Exploratory Data Analysis
